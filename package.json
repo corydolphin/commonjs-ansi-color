@@ -5,11 +5,11 @@
     "author": "James Smith <james@loopj.com>",
     "keywords": ["ansi", "color", "console"],
     "directories": {"lib": "./lib"},
-    "repositories": [
+    "repository":
     {
         "type": "git",
         "url": "git://github.com/loopj/commonjs-ansi-color.git"
     }
-    ],
+    ,
     "main": "./lib/ansi-color.js"
 }
